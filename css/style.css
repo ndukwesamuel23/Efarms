@@ -1,0 +1,285 @@
+/*body{
+	background: red;
+}*/
+
+.sec1{
+	background-color: black;
+	color: white;
+	padding-top: 12px;
+	text-align: center;
+	position:
+	margin-left
+}
+
+.sec3{
+	color: white;
+}
+
+.sec3_p{
+	font-size: 23px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.sec3_button{
+	background-color: green;
+	color: white;
+	height: 40px;
+	width: 150px;
+	border: none;
+	border-radius: 10px;
+}
+
+
+.sec4{
+	background-color: #FFFFFF;
+}
+
+
+.sec4_1_button{
+	background-color: #006400;
+	color: white;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.sec4_1{
+	margin-top: 80px;
+}
+
+.sec4_1 >  p{
+
+	padding-top: 30px;
+	text-align: justify;
+	font-size:17px;
+}
+
+.sec4_2{
+	margin-top: 20px;
+}
+
+
+.sec5{
+	padding-top: 30px;
+	background-color: #FFFFFF;
+	padding-left: 100px;
+
+
+}
+
+.sec5 > video{
+	border-radius: 30px;
+}
+
+
+
+.sec6{
+	padding-top: 50px;
+	background-color: #FFFFFF;
+}
+
+
+.sec_6_header{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+
+.sec7{
+	background-color: #36AF90;
+	color: white
+
+}
+
+.sec7_1{
+		margin-top: 30px;
+	}
+
+.sec7_2{
+		margin-top: 80px;
+		width: 10px;
+	}
+
+
+
+.sec8{
+	background-color: #FFFFFF;
+}
+.sec8_div_img{
+	margin-right: 70px;
+	margin-top: 20px;	
+/*	border-radius: 20px;*/ 
+}
+
+
+
+footer{
+	background-color: black;
+}
+
+.foot{
+	margin-top: 70px;
+}
+
+.foot_p{
+	margin-top: 20px;
+}
+
+.foot_head{
+	font-size: 30px;
+	color: white;
+}
+
+
+
+
+.fsec1{
+	background-color: white;
+	padding-top: 5px;
+}
+
+
+/*connect page css start here */
+.farm_sec1{
+	border: 5px grey solid;
+	border-radius: 5px;
+	padding-top: 20px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.farm_sec1_button{
+	width: 100px;
+	background-color: green;
+	color: white;
+	margin-bottom: 30px;
+	height: 45px;
+}
+
+/*connect page css end here */
+
+/*market maker page*/
+
+.market_sec1_menu{
+	padding-right: 310px;
+}
+.market_sec1_button{
+	margin-left: 20px; 
+	border-radius: 5px;
+	background-color: white;
+}
+
+.market_sec4{
+	background-color: white;
+	padding-top: 100px;
+}
+
+.market_sec4_2{
+	padding-top: 100px;
+	padding-left: 40px;
+}
+
+.market_sec6_1{
+	margin-top: 150px;
+}
+
+.market_sec7{
+	text-align: center;
+	border:1px solid;
+	background-color: grey;
+}
+.market_sec7_input{
+	width: 600px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	height: 40px;
+	border:1px  solid;
+}
+
+textarea{
+	width: 500px;
+	height: 100px;
+}
+
+.market_sec7_input_button{
+
+	background-color: green;
+	width: 200px;
+	color: white;
+	height: 50px;
+	border-radius: 0px 20px 0px 0px;
+	margin-bottom: 20px;
+	margin-top:20px; 
+}
+
+
+
+
+/*
+.market_sec6_2{
+	margin-top: 50px;	  s
+}*/
+
+
+/*market maker page end here*/
+
+
+/*blog section start here*/
+
+.blog_sec1{
+	background-color: black;
+	/*height: 50px;*/
+	padding-top: 6px;
+	font-size: 20px;
+	color: white;
+
+}
+
+.blog_sec1_nav{
+	margin-right: 30px;
+	
+}
+
+.blog_sec1_nav > li > a{
+	color: white;
+}
+
+.blog_sec2{
+
+	height: 450px;
+	text-align: center;
+	padding-top: 100px;
+	color: white;
+	font
+}
+.blog_sec2 > h1{
+	font-size: 100px;
+}
+
+.blog_sec2 > p{
+	font-size: 30px;
+	margin-right:100px; 
+	margin-left:100px;
+	font-style: italic;
+}
+
+
+.blog_sec2_card{
+	padding-top: 50px;
+	border-radius: 10px 10px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+/*blog section end here*/
+
+
+

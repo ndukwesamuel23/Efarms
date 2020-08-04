@@ -1,0 +1,197 @@
+body {
+    font-family: "Montserrat", sans-serif !important;
+}
+
+.blog .carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -40px;
+
+}
+
+.btn-custom {
+    background-color: #006400 !important;
+}
+.btn-custom:hover {
+    background-color: #004000 !important;
+}
+
+.btn-outline-custom {
+    background-color: #ffffff !important;
+    border: 1px solid #006400;
+    color: #006400 !important;
+}
+.btn-outline-custom:hover {
+    background-color: #006400 !important;
+    border: 1px solid #ffffff;
+    color: #fff !important;
+}
+.text-custom {
+    color: #006400 !important;
+}
+.img-pop {
+    height:150px;
+}
+
+.icon.icon-info i{
+    color: #006400 !important;
+}
+
+.icon.icon-primary {
+    color: #006400 !important;
+}
+
+.icon.icon-info.icon-circle {
+    box-shadow: 0 9px 30px -6px rgba(100,255,100, .3) !important;
+}
+.icon.icon-primary.icon-circle {
+    box-shadow: 0 9px 30px -6px rgba(100,255,100, .3) !important;
+}
+.separator-line {
+    background-color: #006400 !important;
+}
+
+.info .info-title h4:hover {
+    color: #006400 !important;
+}
+
+.background-tint-grey {
+    background-color: rgba(0,76,76,.8) !important; /* tint color*/
+    background-blend-mode: multiply !important;
+}
+
+@media (min-width: 30em) and (max-width: 50em) {
+
+}
+
+@media (max-width: 576px) {
+    .bg-overlay h2{
+        font-size: 25px;
+        margin-bottom: 10px !important;
+    }
+    .bg-overlay p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .bg-overlay h2{
+        font-size: 35px;
+        margin-bottom: 10px !important;
+    }
+    .bg-overlay p{
+        font-size: 20px;
+    }
+}
+
+
+.bg-overlay {
+    background: linear-gradient(rgba(0, 0, 0,.0), rgba(0, 0, 0,.0)), url("../img/mkthero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 44vh;
+    padding-top: 50px;
+}
+
+.bg-wwa {
+    background: linear-gradient(rgba(0, 0, 0,.0), rgba(0, 0, 0,.0)), url("../img/wwae2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 44vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-signup {
+    background: linear-gradient(rgba(0, 0, 0,.2), rgba(0, 0, 0,.2)), url("../img/sign3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-login {
+    background: linear-gradient(rgba(0, 0, 0,.2), rgba(0, 0, 0,.2)), url("../img/login5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-products {
+    background: linear-gradient(rgba(0, 0, 0,.0), rgba(0, 0, 0,.0)), url("../img/producted3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 40vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-about {
+    background: linear-gradient(rgba(0, 0, 0,.0), rgba(0, 0, 0,.0)), url("../img/about3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 40vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-contact {
+    background: linear-gradient(rgba(0, 0, 0,.0), rgba(0, 0, 0,.0)), url("../img/contact3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 40vh;
+    padding-top: 50px;
+}
+
+.bg-overlay-cat {
+    background: linear-gradient(rgba(0, 0, 0,.2), rgba(0, 0, 0,.2)), url("../img/cat3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #000 !important;
+    height: 40vh;
+    padding-top: 50px;
+}
+
+.wwaimg {
+    height: auto;
+    
+}
+.pay-card {
+    padding: 20px;
+    background-color: #607D8B;
+    border: 2px solid #006411;
+    color: #fff !important;
+    width: 200px;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+.gradient-blue-moonlit {
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+}
+.padding-1em {
+    padding: 1em;
+}
+
+.margin-btm-1em {
+    margin-bottom: 1em;
+}
+
+.font-xl {
+    font-size: 3em !important;
+}
